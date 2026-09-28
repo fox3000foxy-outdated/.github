@@ -20,7 +20,7 @@
 
 <br>
 
-<a href="#-about"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="12" /> About</a> &nbsp;·&nbsp; <a href="#-where-to-go"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="12" /> Where to go</a> &nbsp;·&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="12" /> Main profile</a>
+<a href="#-about"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="12" /> About</a> &nbsp;·&nbsp; <a href="#-where-to-go"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="12" /> Where to go</a> &nbsp;·&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="12" /> Main profile</a>
 
 </div>
 
@@ -50,7 +50,7 @@ These repositories are **outdated, superseded or abandoned**. They are archived 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30"> &nbsp;Where to go
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="30"> &nbsp;Where to go
 </h2>
 
 <div align="center">
